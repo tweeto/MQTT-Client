@@ -14,3 +14,13 @@
 # Metadata
 *.aliases
 *.lvlps
+
+# Custom
+build
+Build
+builds
+Builds
+Executable
+Installer
+"FPGA Bitfiles"
+*.lvbitx
